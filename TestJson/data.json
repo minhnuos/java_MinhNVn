@@ -1,0 +1,66 @@
+[
+  {
+    "id" : "1",
+    "status" : "on",
+    "users" : [
+      {
+        "id" : "1",
+        "name" : "minh",
+        "age" : "22"
+        
+      },
+      {
+        "id" : "2",
+        "name" : "phong",
+        "age" : "22"
+      }, 
+      {
+        "id" : "3",
+        "name" : "tien",
+        "age" : "23"
+      }
+    ]
+  },
+  {
+    "id" : "2",
+    "status" : "off",
+    "users" : [
+      {
+        "id" : "4",
+        "name" : "minh1",
+        "age" : "22"
+      },
+      {
+        "id" : "5",
+        "name" : "phong1",
+        "age" : "22"
+      }, 
+      {
+        "id" : "6",
+        "name" : "tien1",
+        "age" : "23"
+      }
+    ]
+  },
+  {
+    "id" : "3",
+    "status" : "on",
+    "users" : [
+      {
+        "id" : "7",
+        "name" : "minh2",
+        "age" : "22"
+      },
+      {
+        "id" : "8",
+        "name" : "phong2",
+        "age" : "22"
+      }, 
+      {
+        "id" : "9",
+        "name" : "tien2",
+        "age" : "23"
+      }
+    ]
+  }
+]
